@@ -1,0 +1,7 @@
+target/
+TelegramDownloads/
+*.pdf
+*.class
+.idea/
+.vscode/
+.env
